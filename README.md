@@ -1,3 +1,3 @@
-# PeerTube plugin Quickstart
+# PeerTube Plugin VP9 Small
 
-See https://docs.joinpeertube.org/#/contribute-plugins?id=write-a-plugintheme
+Adds vp9-small and opus-small profiles to peertube.
